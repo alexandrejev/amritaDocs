@@ -2,7 +2,7 @@ module.exports = {
   title: 'Сборы для борьбы с вирусными инфекциями',
   tagline: 'Оздоровительный центр «Амрита» О.Г. Торсунова',
   url: 'https://lk.amrita.center',
-  baseUrl: '/',
+  baseUrl: '/docs/',
   // onBrokenLinks: 'throw',
   onBrokenLinks: 'ignore',
   favicon: 'img/favicon.ico',
