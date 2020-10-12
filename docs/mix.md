@@ -1,7 +1,7 @@
 ---
 id: mix
-title: Document Number 2
+title: Бесплатные сборы
 slug: /
 ---
 
-This is a link to [another document.](doc3.md) This is a link to an [external page.](http://www.example.com/)
+Для получения сборов бесплатно [сделайте заказ](https://lk.amrita.center/mix/null) в своем городе 
