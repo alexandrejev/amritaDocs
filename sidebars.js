@@ -1,7 +1,7 @@
 module.exports = {
   someSidebar: {
-    ARTimmuniuty: [
-      'aboutARTimmunity',
+    ARTimmunity: [
+      'ARTimmunity',
       'mix'],
     // Features: ['mdx'],
   },
