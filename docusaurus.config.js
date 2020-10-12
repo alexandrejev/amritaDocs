@@ -3,7 +3,8 @@ module.exports = {
   tagline: 'Оздоровительный центр «Амрита» О.Г. Торсунова',
   url: 'https://lk.amrita.center',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  // onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   favicon: 'img/favicon.ico',
   organizationName: 'alexandrejev', // Usually your GitHub org/user name.
   projectName: 'amritaDocs', // Usually your repo name.
