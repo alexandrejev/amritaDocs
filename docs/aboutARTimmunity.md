@@ -4,4 +4,6 @@ title: О методите ARTimmunity
 slug: /ARTimmunity
 ---
 
-This is a link to [another document.](doc3.md) This is a link to an [external page.](http://www.example.com/)
+#ARTimmunity
+
+ARTimmunity (Аппликационная рефлексо терапия иммунитета) - авторская методика [О.Г. Торсунова](http://torsunov.ru/) по увеличению иммунитета при помощи прикладывания биологических повязок. 
