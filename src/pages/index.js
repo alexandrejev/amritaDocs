@@ -78,6 +78,19 @@ function Home() {
         </div>
       </header>
       <main>
+
+
+        <div className={styles.video}>
+          <div >
+            <iframe
+              src="https://www.youtube.com/embed/hsPFGxg7krY"
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            ></iframe>
+          </div>
+        </div>
+
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">
