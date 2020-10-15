@@ -10,16 +10,16 @@ module.exports = {
   projectName: 'amritaDocs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Методики ARTimmunity',
+      title: 'Методики ОЦ «Амрита»',
       logo: {
-        alt: 'docs ARTimmunity',
+        alt: 'Amrita docs',
         src: 'img/logo.svg',
       },
       items: [
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Документы',
+          to: 'docs/ARTimmunity/',
+          activeBasePath: 'ARTimmunity',
+          label: 'ARTimmunity+ против вирусов',
           position: 'left',
         },
         // {to: 'blog', label: 'Blog', position: 'left'},
@@ -41,7 +41,7 @@ module.exports = {
             //   to: 'docs/',
             // },
             {
-              label: 'Бесплатные сборы',
+              label: 'Бесплатные оздоровительные сборы',
               to: 'docs/mix/',
             },
           ],
@@ -63,10 +63,10 @@ module.exports = {
         {
           title: 'Вопросы',
           items: [
-            {
-              label: 'Ответы на вопросы',
-              to: 'https://t.me/centerAmritaBot',
-            },
+            // {
+            //   label: 'Ответы на вопросы',
+            //   to: 'https://t.me/centerAmritaBot',
+            // },
             {
               label: 'Телеграм канал',
               href: 'https://t.me/amritacenter',
