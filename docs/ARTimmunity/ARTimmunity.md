@@ -1,6 +1,6 @@
 ---
 id: ARTimmunity
-title: О методите
+title: О методике
 slug: /ARTimmunity
 ---
 
