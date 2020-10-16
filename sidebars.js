@@ -1,5 +1,5 @@
 module.exports = {
-  someSidebar: {
+  ARTimmunity: {
     "ARTimmunity+": [
       'ARTimmunity/ARTimmunity',
       'ARTimmunity/mix'],
@@ -8,4 +8,9 @@ module.exports = {
 
     // Features: ['mdx'],
   },
+  site: {
+    "Использование сайта": [
+      'site/site',
+      'site/switchUser'],
+  }
 };

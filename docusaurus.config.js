@@ -22,6 +22,12 @@ module.exports = {
           label: 'ARTimmunity+ против вирусов',
           position: 'left',
         },
+        {
+          to: 'docs/site',
+          activeBasePath: 'site',
+          label: 'Использование сайта',
+          position: 'left',
+        },
         // {to: 'blog', label: 'Blog', position: 'left'},
         // {
         //   href: 'https://github.com/facebook/docusaurus',
