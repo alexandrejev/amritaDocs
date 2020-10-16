@@ -13,6 +13,7 @@ module.exports = {
       'site/site',
       'site/switchUser',
       {"Организатор": [
+        'site/org/cabinet',
         'site/org/user'
       ]}
     ],
