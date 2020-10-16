@@ -11,6 +11,10 @@ module.exports = {
   site: {
     "Использование сайта": [
       'site/site',
-      'site/switchUser'],
+      'site/switchUser',
+      {"Организатор": [
+        'site/org/user'
+      ]}
+    ],
   }
 };
