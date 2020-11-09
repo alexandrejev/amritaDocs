@@ -28,6 +28,12 @@ module.exports = {
           label: 'Использование сайта',
           position: 'left',
         },
+        {
+          to: 'docs/faq',
+          activeBasePath: 'faq',
+          label: 'Ответы',
+          position: 'left',
+        },
         // {to: 'blog', label: 'Blog', position: 'left'},
         // {
         //   href: 'https://github.com/facebook/docusaurus',

@@ -17,5 +17,9 @@ module.exports = {
         'site/org/user'
       ]}
     ],
+  },
+  faq: {
+    "Ответы на вопросы":['faq/faq']
+
   }
 };
