@@ -85,6 +85,14 @@ slug: /faq
 </p>
 </details>
 
+
+<details><summary>Какой чай пить?</summary>
+
+![Рецепт чая](/img/tea.jpeg =350x)
+
+</details>
+
+
 <details><summary>У меня технический вопрос к работе сайта и пр.</summary>
 <p>
 
@@ -176,11 +184,7 @@ slug: /faq
 </p>
 </details>
 
-<details><summary>Где взять рецепт чая?</summary>
 
-![Рецепт чая](/img/tea.jpeg)
-
-</details>
 
 
 
