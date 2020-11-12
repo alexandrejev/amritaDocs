@@ -176,6 +176,12 @@ slug: /faq
 </p>
 </details>
 
+<details><summary>Где взять рецепт чая?</summary>
+
+![Рецепт чая](/img/tea.jpeg)
+
+</details>
+
 
 
 ## Сайт
