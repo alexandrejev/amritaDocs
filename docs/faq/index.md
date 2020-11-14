@@ -44,6 +44,12 @@ slug: /faq
 </details>
 
 
+<details><summary>Какой чай пить?</summary>
+
+![Рецепт чая](/img/tea.jpeg=350x)
+
+</details>
+
 
 <details><summary>Сбор действительно бесплатный?</summary>
 <p>
@@ -66,11 +72,7 @@ slug: /faq
 </details>
 
 
-<details><summary>Какой чай пить?</summary>
 
-![Рецепт чая](/img/tea.jpeg=350x)
-
-</details>
 
 
 
