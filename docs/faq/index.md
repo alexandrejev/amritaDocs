@@ -46,7 +46,7 @@ slug: /faq
 
 <details><summary>Какой чай пить?</summary>
 
-![Рецепт чая](/img/tea.jpeg=350x)
+![Рецепт чая](/img/tea.jpeg)
 
 </details>
 
